@@ -1,0 +1,20 @@
+{
+  "name": "vue-template",
+  "version": "1.0.0",
+  "author": "<%=author%>",
+  "description": "<%=description%>",
+  "private": "<%=private%>",
+  "keywords": "<%=keywords%>",
+  "license": "<%=license%>",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.11.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
